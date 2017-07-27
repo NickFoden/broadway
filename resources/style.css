@@ -1,3 +1,7 @@
+* {
+font-family: "Helvetica", sans-serif;
+}
+
 .header {
  	text-align: center;
  	color: white;
@@ -23,7 +27,19 @@ h5, a {
  	text-align: center;
  }
 
-
  .footer {
  	text-align: left;
+ 	background-color: gray;
+ }
+
+ .footText {
+ 	color: white;
+ }
+
+ .belt {
+ 	background-image: url("./images/the-flatiron-building.png");
+  }
+
+ .design {
+ 	color: white;
  }
